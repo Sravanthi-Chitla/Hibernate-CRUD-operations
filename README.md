@@ -20,7 +20,7 @@ It contains a `Student` entity and a `Main` class that performs all CRUD operati
 
 ## 📂 Project Structure
 src/
-└── main/
+└── main/               
 ├── java/
 │ └── com/
 │ └── hibernate/

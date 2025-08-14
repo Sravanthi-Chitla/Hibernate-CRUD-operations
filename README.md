@@ -19,13 +19,13 @@ It contains a `Student` entity and a `Main` class that performs all CRUD operati
 ---
 
 ## 📂 Project Structure
-src/
+src/          
 └── main/               
-├── java/
-│ └── com/
-│ └── hibernate/
-│ ├── Main.java # Contains CRUD methods
-│ └── Student.java # Entity class
-└── resources/
-└── hibernate.cfg.xml # Hibernate configuration
-pom.xml # Maven dependencies
+├── java/          
+│ └── com/         
+│ └── hibernate/           
+│ ├── Main.java # Contains CRUD methods          
+│ └── Student.java # Entity class             
+└── resources/                        
+└── hibernate.cfg.xml # Hibernate configuration                         
+pom.xml # Maven dependencies            
